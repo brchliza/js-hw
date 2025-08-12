@@ -1,0 +1,24 @@
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+  }
+  
+.coutry-card{
+    width: 300px;
+    margin: 0 auto;
+
+}
+.title{
+font-family: "Roboto", sans-serif;
+color: rgb(0, 0, 0);
+font-size: 20px;
+}
+.value{
+    font-family: "Roboto", sans-serif;
+    color: grey;
+}
+.c-name{
+    font-family: "Roboto", sans-serif;
+    color: cadetblue;
+    font-size: 30px;
+}
